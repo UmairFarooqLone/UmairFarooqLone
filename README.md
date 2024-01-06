@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Umair Farooq</h1>
-<h3 align="center">A passionate Full stack Developer from India</h3>
+<h3 align="center">A Passionate Full stack Developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">https://www.linkedin.com/in/umairibnfarooq/</p>
